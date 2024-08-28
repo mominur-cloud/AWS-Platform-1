@@ -2,7 +2,7 @@ variable "name" {
   type = string
 }
 
-variable "role" {
+variable "role_arn" {
   type = string
 }
 
